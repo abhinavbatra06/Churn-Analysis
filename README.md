@@ -20,6 +20,17 @@ Understanding when and why customers leave is crucial—especially when retentio
   - Clearly defined churn events
   - Time-to-event values
   - Rich customer metadata
+ 
+## Tech Stack
+
+- **Python 3.9+**
+- **Pandas** – Data manipulation  
+- **NumPy** – Numerical operations  
+- **Matplotlib / Seaborn** – Visualization  
+- **Lifelines** – Survival analysis (Kaplan-Meier, AFT, CoxPH models)  
+- **Scikit-learn** – Data preprocessing and metrics  
+- **Jupyter Notebook** – Interactive development  
+- **Google Drive** – For sharing plots, models, and notebooks  
 
 ---
 

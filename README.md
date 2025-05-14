@@ -24,10 +24,10 @@ Understanding when and why customers leave is crucial especially when retention 
 ## Tech Stack
 
 - **Python 3.9+**
-- **Pandas** – Data manipulation  
-- **NumPy** – Numerical operations  
+- **Pandas** - Data manipulation  
+- **NumPy** - Numerical operations  
 - **Matplotlib / Seaborn** – Visualization  
-- **Lifelines** – Survival analysis (Kaplan-Meier, AFT, CoxPH models)  
+- **Lifelines** - Survival analysis (Kaplan-Meier, AFT, CoxPH models)  
 - **Scikit-learn** – Data preprocessing and metrics  
 - **Jupyter Notebook** – Interactive development  
 
@@ -64,11 +64,11 @@ Understanding when and why customers leave is crucial especially when retention 
 
 ## Key Observations
 
-- 10% of customers churn within the first 5 months — early engagement is vital  
+- 10% of customers churn within the first 5 months - early engagement is vital  
 - **Yearly contracts** reduce churn hazard ~24x compared to monthly plans  
 - **Married users** churn 40% less than single users  
 - **Credit card payers** churn less than others  
-- Offers initially increase hazard but risk drops with tenure — incentive duration matters
+- Offers initially increase hazard but risk drops with tenure - incentive duration matters
 
 
 

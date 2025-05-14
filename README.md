@@ -23,13 +23,12 @@ Understanding when and why customers leave is crucial especially when retention 
  
 ## Tech Stack
 
-- **Python 3.9+**
-- **Pandas** - Data manipulation  
-- **NumPy** - Numerical operations  
-- **Matplotlib / Seaborn** – Visualization  
-- **Lifelines** - Survival analysis (Kaplan-Meier, AFT, CoxPH models)  
-- **Scikit-learn** – Data preprocessing and metrics  
-- **Jupyter Notebook** – Interactive development  
+- Python  
+- Jupyter Notebook  
+- Pandas, NumPy – for data handling  
+- Matplotlib, Seaborn – for plots  
+- **Lifelines** – for survival analysis models  
+- Scikit-learn – for preprocessing    
 
 ---
 

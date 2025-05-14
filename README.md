@@ -30,6 +30,14 @@ Understanding when and why customers leave is crucial especially when retention 
 - **Lifelines** – for survival analysis models  
 - Scikit-learn – for preprocessing    
 
+## Installation
+
+Clone the repository and install the required packages:
+
+```bash
+git clone https://github.com/abhinavbatra06/Churn-Analysis.git
+cd Churn-Analysis
+pip install -r requirements.txt
 ---
 
 ## Approach

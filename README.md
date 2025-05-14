@@ -45,8 +45,9 @@ Understanding when and why customers leave is crucial especially when retention 
 
 ### 3. Cox Proportional Hazards Model
 - Initial model violated proportionality assumptions  
-- Used **Stratified Cox model with time-varying covariates**  
-- Captured dynamic effects such as fading influence of marketing offers over time
+- Switched to **Stratified Cox model with time-varying covariates** to handle changing effects over time  
+- Captured dynamic patterns like the fading impact of marketing offers  
+- Outputs **hazard ratios**, which describe the **instantaneous rate of churn** relative to a baseline group 
 
 ---
 
@@ -63,11 +64,13 @@ Understanding when and why customers leave is crucial especially when retention 
 
 ## Key Observations
 
-- 10% of customers churn within the first 5 months - early engagement is vital  
-- **Yearly contracts** reduce churn hazard ~24x compared to monthly plans  
-- **Married users** churn 40% less than single users  
-- **Credit card payers** churn less than others  
-- Offers initially increase hazard but risk drops with tenure - incentive duration matters
+- Customers on **yearly billing cycles** churn significantly less than those on monthly plans. Incentivizing longer-term plans can improve retention.
+- **Early churn is high**: 10% of users churn within the first 5 months. Improving onboarding and early engagement is critical.
+- **Married users churn less**, indicating potential in targeting household plans or bundled services.
+- **Offer-driven churn is time-sensitive**: Offers increase churn risk initially, but risk decreases over time. Offer timing and targeting should be optimized.
+- **Credit card payment users show lower churn**, suggesting that optimizing for convenience in billing can aid retention.
+- **Static churn models underperform**: Time-varying survival models capture churn patterns more accurately, supporting more precise intervention timing.
+
 
 
 

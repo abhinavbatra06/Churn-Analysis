@@ -33,8 +33,6 @@ Understanding when and why customers leave is crucial especially when retention 
 ## Installation
 
 Clone the repository and install the required packages:
-
-```bash
 git clone https://github.com/abhinavbatra06/Churn-Analysis.git
 cd Churn-Analysis
 pip install -r requirements.txt

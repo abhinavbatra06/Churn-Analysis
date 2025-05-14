@@ -38,6 +38,8 @@ cd Churn-Analysis
 pip install -r requirements.txt
 ```
 
+## Approach
+
 ### 1. Non-Parametric Analysis
 - Kaplan-Meier estimator used to plot survival curves  
 - Log-rank tests applied to compare survival curves across customer groups (e.g., gender, marital status)

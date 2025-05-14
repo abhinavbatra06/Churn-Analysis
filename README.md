@@ -30,7 +30,6 @@ Understanding when and why customers leave is crucial—especially when retentio
 - **Lifelines** – Survival analysis (Kaplan-Meier, AFT, CoxPH models)  
 - **Scikit-learn** – Data preprocessing and metrics  
 - **Jupyter Notebook** – Interactive development  
-- **Google Drive** – For sharing plots, models, and notebooks  
 
 ---
 

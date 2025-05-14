@@ -9,7 +9,7 @@ This project applies **survival analysis** to model and predict customer churn u
 - Predict individual customer churn timelines  
 - Provide actionable insights for customer retention strategy  
 
-Understanding when and why customers leave is crucial—especially when retention is more cost-effective than acquisition.
+Understanding when and why customers leave is crucial especially when retention is more cost-effective than acquisition.
 
 ---
 

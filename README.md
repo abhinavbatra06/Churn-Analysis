@@ -14,7 +14,7 @@ Understanding when and why customers leave is crucial especially when retention 
 ---
 
 ## Dataset
-- **Source:** [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground?search=churn)  
+- **Source:** [Link](https://www.mavenanalytics.io/data-playground/telecom-customer-churn?order=date_added%2Cdesc&search=churn)  
 - **Features:** Demographics, tenure, contract type, internet type, churn status, etc.  
 - **Highlights:**
   - Clearly defined churn events
